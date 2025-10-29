@@ -38,7 +38,7 @@ It’s perfect for beginners who want to **learn how decentralized auctions work
 ## 🔗 Deployed Smart Contract
 
 **Network:** Ethereum / Testnet (e.g., Sepolia or Mumbai)  
-**Contract Address:** `0xE9042f9a155E2D86939bB8edF5a87B7F4C54d4a6`
+**Contract Address:** `https://celo-sepolia.blockscout.com/address/0xE9042f9a155E2D86939bB8edF5a87B7F4C54d4a6`
 
 ---
 
