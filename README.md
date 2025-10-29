@@ -4,6 +4,7 @@ Welcome to **AuctionFi**, a simple yet powerful smart contract built using **Sol
 It enables **transparent, time-bound auctions** where bidders can compete fairly, and the process remains completely on-chain and verifiable.
 
 ---
+<img width="1574" height="801" alt="image" src="https://github.com/user-attachments/assets/22152030-a674-49a0-b470-97ef8e99d490" />
 
 ## 🧠 Project Description
 
